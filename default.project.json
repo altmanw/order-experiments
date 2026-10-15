@@ -1,5 +1,5 @@
 {
-	"name": "New Order Project",
+	"name": "Order Experiments",
 	"emitLegacyScripts": false,
 	"tree": {
 		"$className": "DataModel",

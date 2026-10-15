@@ -33,7 +33,7 @@ local ReplicaController = if RunService:IsRunning() ---@module ReplicaController
 type Replica = ReplicaController.Replica
 
 -- Constants
-
+-- src/shared/core/external/ReplicaService/ReplicaController.luau
 -- Global variables
 
 local PlayerDataReplica: Replica
